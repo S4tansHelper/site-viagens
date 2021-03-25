@@ -276,8 +276,6 @@ header nav ul li {
     display: flex;
 }
 
-.contato .contato-card li {}
-
 .contato .contato-card li svg {
     width: 16px;
     margin: 10px;
